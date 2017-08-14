@@ -1,3 +1,9 @@
+---
+title: CRISPRAnalzyeR - Fully-interactive Analysis and Documentation Suite for Pooled CRISPR Screens
+layout: post
+---
+
+
 
 ![CRISPRAnalyzeR](https://github.com/boutroslab/crispr-analyzer/blob/master/images/CRISPRAnalyzR_logo5.png)
 
